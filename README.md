@@ -68,6 +68,10 @@ Reach out to us at one of the following places!
 
 - Email at support@umeskiasoftwares.com
 
+## Donate To Our Project
+
+- Donate to our project at [https://paystack.com/pay/oqwdgv9xck](https://umeskiasoftwares.com/donate)
+
 
 
 
