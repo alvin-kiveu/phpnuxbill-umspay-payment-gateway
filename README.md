@@ -70,7 +70,7 @@ Reach out to us at one of the following places!
 
 ## Donate To Our Project
 
-- Donate to our project at [https://paystack.com/pay/oqwdgv9xck](https://umeskiasoftwares.com/donate)
+  [Donate](https://paystack.com/pay/oqwdgv9xck)
 
 
 
