@@ -1,6 +1,6 @@
 # Phpnuxbill Ums Pay Payment Gateway
 
-UMS Pay Payment Gateway it is a payment gateway that allows you to accept payments from your customers and transfer it to your directly to a Kenyan bank account, Mpesa Paybill or Mpesa Till Number. It is a secure, reliable and efficient payment gateway that is easy to integrate with your website or mobile app. It is a product of Umeskia Softwares.
+UMS Pay Payment Gateway it is a payment gateway that allows you to accept payments from your customers and transfer it to your directly to a Kenyan bank account, Mpesa Paybill or Mpesa Till Number. It is a secure, reliable and efficient payment gateway that is easy to integrate with your website or mobile app. It is a product of [Umeskia Softwares](https://umeskiasoftwares.com/).
 
 ## Supported Country
 
@@ -66,7 +66,10 @@ Reach out to us at one of the following places!
 
 - Website at [https://umeskiasoftwares.com](https://umeskiasoftwares.com)
 
-- Email at [support@umeskiasoftwares.com] (mailto:support@umeskiasoftwares.com)
+- Email at support@umeskiasoftwares.com
+
+
+
 
 
 
