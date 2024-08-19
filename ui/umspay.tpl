@@ -4,7 +4,9 @@
     <div class="row">
         <div class="col-sm-12 col-md-12">
             <div class="panel panel-primary panel-hovered panel-stacked mb30">
-                <div class="panel-heading">TinyPesa</div>
+                <div class="panel-heading">
+                    <div class="panel-title">UMSPay Settings</div>
+                </div>
                 <div class="panel-body">
                     <div class="form-group">
                         <label class="col-md-2 control-label">Api Key</label>
@@ -21,6 +23,16 @@
                         </div>
                     </div>
                     
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">Account ID </label>
+                        <div class="col-md-6">
+                            <input type="text" class="form-control" id="account_id" name="account_id" placeholder="xxxxxxxxxxxxxxxxx" value="{$_c['umspay_account_id']}">
+                            <small class="form-text text-muted">Login to <a href="https://portal.umeskiasoftwares.com/servicepoint.php?ptd=umspay&account" target="_blank">https://portal.umeskiasoftwares.com</a> to get your account id on settings page</small>
+                            <br>
+                            <span class="text-info">This is optional, if your account has one copy and paste it here</span>
+                        </div>
+                    </div>
+                    
                     
                      <div class="form-group">
                         <label class="col-md-2 control-label">Webhook</label>
@@ -32,7 +44,7 @@
 
                     <div class="form-group">
                         <div class="col-lg-offset-2 col-lg-10">
-                            <button class="btn btn-primary waves-effect waves-light" type="submit">{$_L['Save']}</button>
+                            <button class="btn btn-primary waves-effect waves-light" type="submit">SAVE CHANGES</button>
                         </div>
                     </div>
                         <pre>/ip hotspot walled-garden

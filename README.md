@@ -54,6 +54,26 @@ UMS Pay Payment Gateway it is a payment gateway that allows you to accept paymen
 5. Paste the API Keys on your PHPNuxbill Admin Panel
 
 
+## HOW TO GET ACCOUNT ID
+
+1. Create and account at [UMS Portal](https://portal.umeskiasoftwares.com/)
+
+2. Login to your account and Select Prefered Product as UMS Pay
+
+3. Navigate to Linked Accounts and Copy the Account ID
+
+## How to add Webhook URL
+
+1. Create and account at [UMS Portal](https://portal.umeskiasoftwares.com/)
+
+2. Login to your account and Select Prefered Product as UMS Pay
+
+3. Navigate to  Webhooks
+
+4. Add your Webhook URL and Save Changes
+
+
+
 ## Author
 
 **Alvin Kiveu**
