@@ -54,7 +54,7 @@ UMS Pay Payment Gateway it is a payment gateway that allows you to accept paymen
 5. Paste the API Keys on your PHPNuxbill Admin Panel
 
 
-## HOW TO GET ACCOUNT ID
+## HOW TO GET ACCOUNT ID TO LINK ACCOUNT
 
 1. Create and account at [UMS Portal](https://portal.umeskiasoftwares.com/)
 

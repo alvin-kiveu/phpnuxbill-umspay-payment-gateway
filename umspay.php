@@ -183,9 +183,6 @@ function umspay_get_status($trx, $user)
   curl_close($ch);
   $responseData = json_decode($response);
   if (isset($responseData->TransactionStatus) && $responseData->TransactionStatus == "Completed") {
-    // if (!Package::rechargeUser($user['id'], $trx['routers'], $trx['plan_id'], $trx['gateway'], 'Umspay')) {
-    //   r2(U . "order/view/" . $trx['id'], 'd', Lang::T("Failed to activate your Package, try again later."));
-    // }
     r2(U . "order/view/" . $trx['id'], 's', Lang::T("Transaction successful."));
   } else {
     r2(U . "order/view/" . $trx['id'], 'w', Lang::T("Transaction still unpaid."));

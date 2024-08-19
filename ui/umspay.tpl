@@ -24,7 +24,7 @@
                     </div>
                     
                     <div class="form-group">
-                        <label class="col-md-2 control-label">Account ID </label>
+                        <label class="col-md-2 control-label">Account ID <small class="text-info">(Optional)</small></label>
                         <div class="col-md-6">
                             <input type="text" class="form-control" id="account_id" name="account_id" placeholder="xxxxxxxxxxxxxxxxx" value="{$_c['umspay_account_id']}">
                             <small class="form-text text-muted">Login to <a href="https://portal.umeskiasoftwares.com/servicepoint.php?ptd=umspay&account" target="_blank">https://portal.umeskiasoftwares.com</a> to get your account id on settings page</small>
